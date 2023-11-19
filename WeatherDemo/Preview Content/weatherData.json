@@ -1,1 +1,46 @@
-{"coord":{"lon":76.8958,"lat":12.5242},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":19.59,"feels_like":19.98,"temp_min":19.59,"temp_max":19.59,"pressure":1013,"humidity":91,"sea_level":1013,"grnd_level":936},"visibility":10000,"wind":{"speed":2.11,"deg":43,"gust":2.21},"clouds":{"all":72},"dt":1700078357,"sys":{"country":"IN","sunrise":1700095845,"sunset":1700137418},"timezone":19800,"id":1263814,"name":"Mandya","cod":200}
+{"coord":{
+    "lon":76.8958,
+        "lat":12.5242 },
+    
+    "weather":[ {
+        "id":803,
+        "main":"Clouds",
+        "description":"broken clouds",
+        "icon":"04n" } ],
+    
+    "base":"stations",
+    
+    "main":{
+        "temp":19.59,
+        "feels_like":19.98,
+        "temp_min":19.59,
+        "temp_max":19.59,
+        "pressure":1013,
+        "humidity":91,
+        "sea_level":1013,
+        "grnd_level":936 },
+    
+    "visibility":10000,
+    
+    "wind":{
+        "speed":2.11,
+        "deg":43,
+        "gust":2.21 },
+    
+    "clouds":{
+        "all":72 },
+    
+    "dt":1700078357,
+    
+    "sys":{
+        "country":"IN",
+        "sunrise":1700095845,
+        "sunset":1700137418 },
+    
+    "timezone":19800,
+    
+    "id":1263814,
+    
+    "name":"Mandya",
+    
+    "cod":200 }

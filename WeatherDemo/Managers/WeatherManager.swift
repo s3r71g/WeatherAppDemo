@@ -1,5 +1,6 @@
 //
 //  WeatherManager.swift
+//
 //  WeatherDemo
 //
 //  Created by Oracle on 16/11/23.
@@ -10,7 +11,7 @@ import CoreLocation
 
 class WeatherManager {
     func getCurrentWeather(latitude: CLLocationDegrees, longitude: CLLocationDegrees) async throws -> ResponseBody {
-        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?lat=\(latitude)&lon=\(longitude)&appid=\("\(apiKey)")&units=metric") else {fatalError("Missing URL")}
+        guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?lat=\(latitude)&lon=\(longitude)&appid=\("a656112f9ec2cd988877d7ec766b9628")&units=metric") else {fatalError("Missing URL")}
         
         let urlRequest = URLRequest(url: url)
         
